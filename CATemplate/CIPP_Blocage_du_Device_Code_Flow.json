@@ -1,0 +1,8 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "997e3163-512b-4117-9636-0e6528fd4dc3",
+  "GUID": "997e3163-512b-4117-9636-0e6528fd4dc3",
+  "JSON": "{\"displayName\":\"CIPP: Blocage du 'Device Code Flow'\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeUsers\":[\"All\"],\"excludeGroups\":[\"MFA_EXCLUSIONS\"],\"excludeGuestsOrExternalUsers\":{\"guestOrExternalUserTypes\":\"serviceProvider\",\"externalTenants\":{\"@odata.type\":\"#microsoft.graph.conditionalAccessAllExternalTenants\",\"membershipKind\":\"all\"}}},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"all\"],\"authenticationFlows\":{\"transferMethods\":\"deviceCodeFlow\"}},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"block\"]},\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}]}",
+  "Package": "Basic Package",
+  "SHA": ""
+}
