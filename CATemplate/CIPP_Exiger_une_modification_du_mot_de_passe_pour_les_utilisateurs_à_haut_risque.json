@@ -1,0 +1,8 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "be82bda5-56c3-4ee2-af9d-800e8ae23ec3",
+  "GUID": "be82bda5-56c3-4ee2-af9d-800e8ae23ec3",
+  "JSON": "{\"displayName\":\"CIPP: Exiger une modification du mot de passe pour les utilisateurs à haut risque\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeUsers\":[\"All\"],\"excludeGroups\":[\"MFA_EXCLUSIONS\"]},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"all\"],\"userRiskLevels\":[\"high\"]},\"grantControls\":{\"operator\":\"AND\",\"builtInControls\":[\"mfa\",\"passwordChange\"]},\"sessionControls\":{\"signInFrequency\":{\"isEnabled\":true,\"frequencyInterval\":\"everyTime\",\"authenticationType\":\"primaryAndSecondaryAuthentication\"}},\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}]}",
+  "Package": "Defender Suite Package",
+  "SHA": ""
+}
