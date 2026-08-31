@@ -1,0 +1,8 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "5fb499c8-7070-4fb1-a2bb-27c483be8fd1",
+  "GUID": "5fb499c8-7070-4fb1-a2bb-27c483be8fd1",
+  "JSON": "{\"displayName\":\"CIPP: Exiger une authentification multifacteur pour l’accès invité\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeGuestsOrExternalUsers\":{\"guestOrExternalUserTypes\":\"internalGuest,b2bCollaborationGuest,b2bCollaborationMember,b2bDirectConnectUser,otherExternalUser,serviceProvider\",\"externalTenants\":{\"@odata.type\":\"#microsoft.graph.conditionalAccessAllExternalTenants\",\"membershipKind\":\"all\"}}},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"all\"]},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"mfa\"]},\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}]}",
+  "Package": "Basic Package",
+  "SHA": ""
+}
