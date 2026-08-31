@@ -1,0 +1,8 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "af0814d6-bd9c-498a-b53c-bee3c5b92b3d",
+  "GUID": "af0814d6-bd9c-498a-b53c-bee3c5b92b3d",
+  "JSON": "{\"displayName\":\"CIPP: Exiger l’authentification multifacteur pour les connexions à risque\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeUsers\":[\"All\"],\"excludeGroups\":[\"MFA_EXCLUSIONS\"]},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"all\"],\"signInRiskLevels\":[\"high\",\"medium\"]},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"mfa\"]},\"sessionControls\":{\"signInFrequency\":{\"isEnabled\":true,\"frequencyInterval\":\"everyTime\",\"authenticationType\":\"primaryAndSecondaryAuthentication\"}},\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}]}",
+  "Package": "Defender Suite Package",
+  "SHA": ""
+}
