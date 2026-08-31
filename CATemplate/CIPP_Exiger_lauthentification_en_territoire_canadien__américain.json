@@ -1,0 +1,8 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "b328815f-e7c0-4c99-9092-8cc38a728894",
+  "GUID": "b328815f-e7c0-4c99-9092-8cc38a728894",
+  "JSON": "{\"displayName\":\"CIPP: Exiger l'authentification en territoire canadien & américain\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeUsers\":[\"All\"],\"excludeGroups\":[\"INTERNATIONAL_ACCESS\"],\"excludeGuestsOrExternalUsers\":{\"guestOrExternalUserTypes\":\"serviceProvider\",\"externalTenants\":{\"@odata.type\":\"#microsoft.graph.conditionalAccessAllExternalTenants\",\"membershipKind\":\"all\"}}},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"all\"],\"locations\":{\"includeLocations\":[\"All\"],\"excludeLocations\":[\"CANADA\",\"USA\"]}},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"block\"]},\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}],\"LocationInfo\":[{\"@odata.type\":\"#microsoft.graph.countryNamedLocation\",\"displayName\":\"CANADA\",\"countriesAndRegions\":[\"CA\"],\"includeUnknownCountriesAndRegions\":false,\"countryLookupMethod\":\"clientIpAddress\"},{\"@odata.type\":\"#microsoft.graph.countryNamedLocation\",\"displayName\":\"USA\",\"countriesAndRegions\":[\"US\"],\"includeUnknownCountriesAndRegions\":false,\"countryLookupMethod\":\"clientIpAddress\"}]}",
+  "Package": "Geoblock Package",
+  "SHA": ""
+}
