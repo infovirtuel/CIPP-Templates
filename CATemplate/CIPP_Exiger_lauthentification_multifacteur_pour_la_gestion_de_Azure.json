@@ -1,0 +1,8 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "3d362bee-97fe-4211-9a40-5e1058ee546d",
+  "GUID": "3d362bee-97fe-4211-9a40-5e1058ee546d",
+  "JSON": "{\"displayName\":\"CIPP: Exiger l’authentification multifacteur pour la gestion de ‎Azure‎\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeUsers\":[\"All\"]},\"applications\":{\"includeApplications\":[\"797f4846-ba00-4fd7-ba43-dac1f8f63013\"]},\"clientAppTypes\":[\"all\"]},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"mfa\"]},\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}]}",
+  "Package": "Basic Package",
+  "SHA": ""
+}
