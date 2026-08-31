@@ -1,0 +1,8 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "953cb8b7-eeb6-4c26-90b0-8584b65ffd0c",
+  "GUID": "953cb8b7-eeb6-4c26-90b0-8584b65ffd0c",
+  "JSON": "{\"displayName\":\"CIPP: Bloquer l’authentification héritée\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeUsers\":[\"All\"],\"excludeGroups\":[\"MFA_EXCLUSIONS\"]},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"exchangeActiveSync\",\"other\"]},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"block\"]},\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}]}",
+  "Package": "Basic Package",
+  "SHA": ""
+}
