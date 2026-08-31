@@ -1,0 +1,8 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "806b4484-0877-407a-8e87-f43247e11eb5",
+  "GUID": "806b4484-0877-407a-8e87-f43247e11eb5",
+  "JSON": "{\"displayName\":\"CIPP: Autoriser le Voyage International\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeGroups\":[\"INTERNATIONAL_ACCESS\"]},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"all\"],\"locations\":{\"includeLocations\":[\"All\"]}},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"mfa\"]},\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}]}",
+  "Package": "Geoblock Package",
+  "SHA": ""
+}
