@@ -1,0 +1,8 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "7f59644f-34dd-4f49-947f-38796bc7b3fb",
+  "GUID": "7f59644f-34dd-4f49-947f-38796bc7b3fb",
+  "JSON": "{\"displayName\":\"CIPP: Exiger l’authentification multifacteur pour tous les utilisateurs\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeUsers\":[\"All\"],\"excludeGroups\":[\"MFA_EXCLUSIONS\"],\"excludeRoles\":[\"d29b2b05-8046-44ba-8758-1e26182fcf32\"]},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"all\"]},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"mfa\"]},\"tenantFilter\":[{\"value\":\"Template Tenant\",\"label\":\"Template Tenant\"}]}",
+  "Package": "Basic Package",
+  "SHA": ""
+}
