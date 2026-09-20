@@ -1,0 +1,7 @@
+{
+  "PartitionKey": "IntuneTemplate",
+  "RowKey": "c13142ee-6d87-4ac2-848c-25cabc6db119",
+  "GUID": "c13142ee-6d87-4ac2-848c-25cabc6db119",
+  "JSON": "{\"Displayname\":\"CIPP: Require LDAP client signing to prevent tampering and protect directory authentication\",\"Description\":\"Require LDAP client signing to prevent tampering and protect directory authentication\\n\",\"RAWJson\":\"{\\\"name\\\":\\\"CIPP: Require LDAP client signing to prevent tampering and protect directory authentication\\\",\\\"description\\\":\\\"Require LDAP client signing to prevent tampering and protect directory authentication\\\\n\\\",\\\"settings\\\":[{\\\"id\\\":\\\"0\\\",\\\"settingInstance\\\":{\\\"@odata.type\\\":\\\"#microsoft.graph.deviceManagementConfigurationSimpleSettingInstance\\\",\\\"settingDefinitionId\\\":\\\"device_vendor_msft_policy_config_localpoliciessecurityoptions_networksecurity_ldapclientsigningrequirements\\\",\\\"settingInstanceTemplateReference\\\":null,\\\"auditRuleInformation\\\":null,\\\"simpleSettingValue\\\":{\\\"@odata.type\\\":\\\"#microsoft.graph.deviceManagementConfigurationIntegerSettingValue\\\",\\\"settingValueTemplateReference\\\":null,\\\"value\\\":2}}}],\\\"platforms\\\":\\\"windows10\\\",\\\"technologies\\\":\\\"mdm\\\",\\\"templateReference\\\":{\\\"templateId\\\":\\\"\\\",\\\"templateFamily\\\":\\\"none\\\",\\\"templateDisplayName\\\":null,\\\"templateDisplayVersion\\\":null}}\",\"Type\":\"Catalog\",\"GUID\":\"c13142ee-6d87-4ac2-848c-25cabc6db119\"}",
+  "Package": "INTUNE – Authentification héritée et signature réseau"
+}
