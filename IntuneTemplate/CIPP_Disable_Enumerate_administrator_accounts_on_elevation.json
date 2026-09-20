@@ -1,0 +1,7 @@
+{
+  "PartitionKey": "IntuneTemplate",
+  "RowKey": "feae6272-610f-4c34-942e-50df8e7050f0",
+  "GUID": "feae6272-610f-4c34-942e-50df8e7050f0",
+  "JSON": "{\"Displayname\":\"CIPP: Disable 'Enumerate administrator accounts on elevation'\",\"Description\":\"Disable 'Enumerate administrator accounts on elevation'\\n\",\"RAWJson\":\"{\\\"name\\\":\\\"CIPP: Disable 'Enumerate administrator accounts on elevation'\\\",\\\"description\\\":\\\"Disable 'Enumerate administrator accounts on elevation'\\\\n\\\",\\\"settings\\\":[{\\\"id\\\":\\\"0\\\",\\\"settingInstance\\\":{\\\"@odata.type\\\":\\\"#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance\\\",\\\"settingDefinitionId\\\":\\\"device_vendor_msft_policy_config_credentialsui_enumerateadministrators\\\",\\\"settingInstanceTemplateReference\\\":null,\\\"auditRuleInformation\\\":null,\\\"choiceSettingValue\\\":{\\\"settingValueTemplateReference\\\":null,\\\"value\\\":\\\"device_vendor_msft_policy_config_credentialsui_enumerateadministrators_0\\\",\\\"children\\\":[]}}}],\\\"platforms\\\":\\\"windows10\\\",\\\"technologies\\\":\\\"mdm\\\",\\\"templateReference\\\":{\\\"templateId\\\":\\\"\\\",\\\"templateFamily\\\":\\\"none\\\",\\\"templateDisplayName\\\":null,\\\"templateDisplayVersion\\\":null}}\",\"Type\":\"Catalog\",\"GUID\":\"feae6272-610f-4c34-942e-50df8e7050f0\"}",
+  "Package": "INTUNE – Protection des identifiants et UAC"
+}
