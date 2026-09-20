@@ -1,0 +1,7 @@
+{
+  "PartitionKey": "IntuneTemplate",
+  "RowKey": "fabfe826-1b8b-4fc2-b83f-c96bb76e835b",
+  "GUID": "fabfe826-1b8b-4fc2-b83f-c96bb76e835b",
+  "JSON": "{\"Displayname\":\"CIPP: Disable 'Autoplay for non-volume devices'\",\"Description\":\"Disable 'Autoplay for non-volume devices'\\n\",\"RAWJson\":\"{\\\"name\\\":\\\"CIPP: Disable 'Autoplay for non-volume devices'\\\",\\\"description\\\":\\\"Disable 'Autoplay for non-volume devices'\\\\n\\\",\\\"settings\\\":[{\\\"id\\\":\\\"0\\\",\\\"settingInstance\\\":{\\\"@odata.type\\\":\\\"#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance\\\",\\\"settingDefinitionId\\\":\\\"device_vendor_msft_policy_config_autoplay_disallowautoplayfornonvolumedevices\\\",\\\"settingInstanceTemplateReference\\\":null,\\\"auditRuleInformation\\\":null,\\\"choiceSettingValue\\\":{\\\"settingValueTemplateReference\\\":null,\\\"value\\\":\\\"device_vendor_msft_policy_config_autoplay_disallowautoplayfornonvolumedevices_1\\\",\\\"children\\\":[]}}}],\\\"platforms\\\":\\\"windows10\\\",\\\"technologies\\\":\\\"mdm\\\",\\\"templateReference\\\":{\\\"templateId\\\":\\\"\\\",\\\"templateFamily\\\":\\\"none\\\",\\\"templateDisplayName\\\":null,\\\"templateDisplayVersion\\\":null}}\",\"Type\":\"Catalog\",\"GUID\":\"fabfe826-1b8b-4fc2-b83f-c96bb76e835b\"}",
+  "Package": "INTUNE – Médias amovibles et AutoRun"
+}
