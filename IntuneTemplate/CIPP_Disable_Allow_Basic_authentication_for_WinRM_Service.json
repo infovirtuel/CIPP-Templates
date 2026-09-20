@@ -1,0 +1,7 @@
+{
+  "PartitionKey": "IntuneTemplate",
+  "RowKey": "79c0dd6b-6a7c-47b1-8a21-23519d8a3bfb",
+  "GUID": "79c0dd6b-6a7c-47b1-8a21-23519d8a3bfb",
+  "JSON": "{\"Displayname\":\"CIPP: Disable 'Allow Basic authentication' for WinRM Service\",\"Description\":\"Disable 'Allow Basic authentication' for WinRM Service\\n\",\"RAWJson\":\"{\\\"name\\\":\\\"CIPP: Disable 'Allow Basic authentication' for WinRM Service\\\",\\\"description\\\":\\\"Disable 'Allow Basic authentication' for WinRM Service\\\\n\\\",\\\"settings\\\":[{\\\"id\\\":\\\"0\\\",\\\"settingInstance\\\":{\\\"@odata.type\\\":\\\"#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance\\\",\\\"settingDefinitionId\\\":\\\"device_vendor_msft_policy_config_remotemanagement_allowbasicauthentication_service\\\",\\\"settingInstanceTemplateReference\\\":null,\\\"auditRuleInformation\\\":null,\\\"choiceSettingValue\\\":{\\\"settingValueTemplateReference\\\":null,\\\"value\\\":\\\"device_vendor_msft_policy_config_remotemanagement_allowbasicauthentication_service_0\\\",\\\"children\\\":[]}}}],\\\"platforms\\\":\\\"windows10\\\",\\\"technologies\\\":\\\"mdm\\\",\\\"templateReference\\\":{\\\"templateId\\\":\\\"\\\",\\\"templateFamily\\\":\\\"none\\\",\\\"templateDisplayName\\\":null,\\\"templateDisplayVersion\\\":null}}\",\"Type\":\"Catalog\",\"GUID\":\"79c0dd6b-6a7c-47b1-8a21-23519d8a3bfb\"}",
+  "Package": "INTUNE – Authentification héritée et signature réseau"
+}
