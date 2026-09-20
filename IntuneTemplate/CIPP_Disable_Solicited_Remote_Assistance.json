@@ -1,0 +1,7 @@
+{
+  "PartitionKey": "IntuneTemplate",
+  "RowKey": "a775d2c5-04be-488b-bcd0-dccd46a8207a",
+  "GUID": "a775d2c5-04be-488b-bcd0-dccd46a8207a",
+  "JSON": "{\"Displayname\":\"CIPP: Disable Solicited Remote Assistance\",\"Description\":\"Disable Solicited Remote Assistance\\n\",\"RAWJson\":\"{\\\"name\\\":\\\"CIPP: Disable Solicited Remote Assistance\\\",\\\"description\\\":\\\"Disable Solicited Remote Assistance\\\\n\\\",\\\"settings\\\":[{\\\"id\\\":\\\"0\\\",\\\"settingInstance\\\":{\\\"@odata.type\\\":\\\"#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance\\\",\\\"settingDefinitionId\\\":\\\"device_vendor_msft_policy_config_remoteassistance_solicitedremoteassistance\\\",\\\"settingInstanceTemplateReference\\\":null,\\\"auditRuleInformation\\\":null,\\\"choiceSettingValue\\\":{\\\"settingValueTemplateReference\\\":null,\\\"value\\\":\\\"device_vendor_msft_policy_config_remoteassistance_solicitedremoteassistance_0\\\",\\\"children\\\":[]}}}],\\\"platforms\\\":\\\"windows10\\\",\\\"technologies\\\":\\\"mdm\\\",\\\"templateReference\\\":{\\\"templateId\\\":\\\"\\\",\\\"templateFamily\\\":\\\"none\\\",\\\"templateDisplayName\\\":null,\\\"templateDisplayVersion\\\":null}}\",\"Type\":\"Catalog\",\"GUID\":\"a775d2c5-04be-488b-bcd0-dccd46a8207a\"}",
+  "Package": "INTUNE – Accès distant Windows"
+}
