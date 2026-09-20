@@ -1,0 +1,7 @@
+{
+  "PartitionKey": "IntuneTemplate",
+  "RowKey": "d1ccf254-9d2c-4b64-8ca8-7e4e12f8d44c",
+  "GUID": "d1ccf254-9d2c-4b64-8ca8-7e4e12f8d44c",
+  "JSON": "{\"Displayname\":\"CIPP: Disable 'Continue running background apps when Google Chrome is closed'\",\"Description\":\"Disable 'Continue running background apps when Google Chrome is closed'\\n\",\"RAWJson\":\"{\\\"name\\\":\\\"CIPP: Disable 'Continue running background apps when Google Chrome is closed'\\\",\\\"description\\\":\\\"Disable 'Continue running background apps when Google Chrome is closed'\\\\n\\\",\\\"settings\\\":[{\\\"id\\\":\\\"0\\\",\\\"settingInstance\\\":{\\\"@odata.type\\\":\\\"#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance\\\",\\\"settingDefinitionId\\\":\\\"device_vendor_msft_policy_config_chromeintunev1~policy~googlechrome_backgroundmodeenabled\\\",\\\"settingInstanceTemplateReference\\\":null,\\\"auditRuleInformation\\\":null,\\\"choiceSettingValue\\\":{\\\"settingValueTemplateReference\\\":null,\\\"value\\\":\\\"device_vendor_msft_policy_config_chromeintunev1~policy~googlechrome_backgroundmodeenabled_0\\\",\\\"children\\\":[]}}}],\\\"platforms\\\":\\\"windows10\\\",\\\"technologies\\\":\\\"mdm\\\",\\\"templateReference\\\":{\\\"templateId\\\":\\\"\\\",\\\"templateFamily\\\":\\\"none\\\",\\\"templateDisplayName\\\":null,\\\"templateDisplayVersion\\\":null}}\",\"Type\":\"Catalog\",\"GUID\":\"d1ccf254-9d2c-4b64-8ca8-7e4e12f8d44c\"}",
+  "Package": "INTUNE – Configuration Microsoft 365 et applications"
+}
