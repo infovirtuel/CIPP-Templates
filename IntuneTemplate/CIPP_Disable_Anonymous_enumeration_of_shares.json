@@ -1,0 +1,7 @@
+{
+  "PartitionKey": "IntuneTemplate",
+  "RowKey": "a634d0e5-7d6f-419c-92d0-0c9bd32d63ff",
+  "GUID": "a634d0e5-7d6f-419c-92d0-0c9bd32d63ff",
+  "JSON": "{\"Displayname\":\"CIPP: Disable Anonymous enumeration of shares\",\"Description\":\"Disable Anonymous enumeration of shares\\n\",\"RAWJson\":\"{\\\"name\\\":\\\"CIPP: Disable Anonymous enumeration of shares\\\",\\\"description\\\":\\\"Disable Anonymous enumeration of shares\\\\n\\\",\\\"settings\\\":[{\\\"id\\\":\\\"0\\\",\\\"settingInstance\\\":{\\\"@odata.type\\\":\\\"#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance\\\",\\\"settingDefinitionId\\\":\\\"device_vendor_msft_policy_config_localpoliciessecurityoptions_networkaccess_donotallowanonymousenumerationofsamaccountsandshares\\\",\\\"settingInstanceTemplateReference\\\":null,\\\"auditRuleInformation\\\":null,\\\"choiceSettingValue\\\":{\\\"settingValueTemplateReference\\\":null,\\\"value\\\":\\\"device_vendor_msft_policy_config_localpoliciessecurityoptions_networkaccess_donotallowanonymousenumerationofsamaccountsandshares_1\\\",\\\"children\\\":[]}}}],\\\"platforms\\\":\\\"windows10\\\",\\\"technologies\\\":\\\"mdm\\\",\\\"templateReference\\\":{\\\"templateId\\\":\\\"\\\",\\\"templateFamily\\\":\\\"none\\\",\\\"templateDisplayName\\\":null,\\\"templateDisplayVersion\\\":null}}\",\"Type\":\"Catalog\",\"GUID\":\"a634d0e5-7d6f-419c-92d0-0c9bd32d63ff\"}",
+  "Package": "INTUNE – Authentification héritée et signature réseau"
+}
